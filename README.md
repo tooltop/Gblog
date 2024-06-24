@@ -1,11 +1,11 @@
 **简体中文** | **[English](README-en.md)** | **[Русский](README-ru.md)**
-# Gmeek
+# Gblog
 
 一个博客框架，超轻量级个人博客模板。完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
 
-- [Demo页面](http://meekdai.github.io/)
-- [Gmeek更新日志](https://meekdai.github.io/post/Gmeek-geng-xin-ri-zhi.html)
-- [Gmeek快速上手](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)
+- [Demo页面](http://tooltop.github.io/)
+- [Gblog更新日志](https://tooltop.github.io/post/Gblog-geng-xin-ri-zhi.html)
+- [Gblog快速上手](https://blog.tooltop.com/post/Gblog-kuai-su-shang-shou.html)
 
 ![light](img/light.jpg)
 
@@ -19,13 +19,13 @@
 
 4. 【手动全局生成】这个步骤只有在修改`config.json`文件或者出现奇怪问题的时候，需要执行。
 ```
-通过Actions->build Gmeek->Run workflow->里面的按钮全局重新生成一次
+通过Actions->build Gblog->Run workflow->里面的按钮全局重新生成一次
 ```
 
 ### 提交问题
 
-1. 如果有问题可参考[Gmeek快速上手](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)   
-2. 在本仓库提交[Issues](https://github.com/Meekdai/Gmeek/issues)之前，请手动全局生成一次。如果还有错误，提交`Issues`后，我会帮忙查看构建流程，定位问题出处。   
+1. 如果有问题可参考[Gblog快速上手](https://blog.tooltop.com/post/Gblog-kuai-su-shang-shou.html)   
+2. 在本仓库提交[Issues](https://github.com/tooltop/Gblog/issues)之前，请手动全局生成一次。如果还有错误，提交`Issues`后，我会帮忙查看构建流程，定位问题出处。   
 
 ### 特性
 
